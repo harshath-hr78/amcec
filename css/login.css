@@ -1,0 +1,35 @@
+.heading{
+  color: white;
+  font-size:50px;
+  font-weight: bold;
+  margin-top: 10%;
+}
+.buttons{
+  padding: 20px 30px;
+  border: 1px solid white;
+  border-radius: 5px;
+  color: black;
+  background-image: linear-gradient(to right,orange,yellow);
+  margin: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size:20px;
+  cursor:pointer;
+}
+form input:hover{
+  padding: 20px 35px;
+  transition: 0.2s;
+  background-image: linear-gradient(to right,cyan,lime);
+  border-radius: 3px;
+  border: none;
+  color:black;
+}
+body{
+  background: url(../images/back1.jpg) no-repeat;
+  color: white;
+  background-size: 100%;
+  background-attachment: fixed;
+  text-align: center;
+  font-weight:bold;
+  background-color : yellow;
+}
